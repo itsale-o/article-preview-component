@@ -60,7 +60,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Article Preview Component](https://your-live-site-url.com)
+- Live Site URL: [Article Preview Component](https://itsale-o.github.io/article-preview-component/)
 
 ## My process
 
